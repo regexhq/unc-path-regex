@@ -1,4 +1,4 @@
-# unc-path-regex [![NPM version](https://badge.fury.io/js/unc-path-regex.svg)](http://badge.fury.io/js/unc-path-regex)
+# unc-path-regex [![NPM version](https://badge.fury.io/js/unc-path-regex.svg)](http://badge.fury.io/js/unc-path-regex)  [![Build Status](https://travis-ci.org/jonschlinkert/unc-path-regex.svg)](https://travis-ci.org/jonschlinkert/unc-path-regex)
 
 > Regular expression for testing if a file path is a windows UNC file path. Can also be used as a component of another regexp via the `.source` property.
 
